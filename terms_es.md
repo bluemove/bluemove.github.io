@@ -20,13 +20,13 @@ El CLIENTE (y, en su caso, el USUARIO) debe tener, como mínimo 20 años de edad
 
 Con posterioridad a la celebración del contrato y durante su vigencia: El CLIENTE (y, en su caso, el USUARIO) deberá de comunicar de inmediato, en el plazo máximo de 24 horas, a BLUEMOVE la caducidad o suspensión temporal de su permiso de conducir, siendo responsable directo y exclusivo, si no lo hace, de cuantos daños y perjuicios puedan causarse a BLUEMOVE o a terceros, en sus patrimonios y/o en sus personas, si no efectúa tal comunicación. Caducado o suspendido temporalmente el permiso de conducir del CLIENTE o de cualquier USUARIO autorizado, quedará en suspenso la eficacia de este contrato (o de la autorización concedida por el CLIENTE al USUARIO afectado), hasta que se alce la suspensión del permiso de conducir o éste sea renovado por el CLIENTE o, en su caso, por el USUARIO. o El CLIENTE deberá comunicar de inmediato a BLUEMOVE, en el plazo máximo de 24 horas, cualquier modificación de numeración, domicilio o categoría, que afecte a sus documentos de identidad y a su permiso de conducción o a los de los USUARIOS por aquél autorizados y, asimismo, las que desee introducir o puedan afectar a la domiciliación bancaria del pago de las facturas que BLUEMOVE le gire o, en su caso, a la/s tarjeta/s de crédito con cargo a la/s cual/es se haya comprometido a realizar dichos pagos.
 
-Segunda.- Entrega de la tarjeta electrónica de CLIENTE/USUARIO, utilización de la misma e incidencias.-
+#### Segunda.- Entrega de la tarjeta electrónica de CLIENTE/USUARIO, utilización de la misma e incidencias.-
 
 Al tiempo de celebrar el contrato, el CLIENTE y los USUARIOS que éste autorice en ese momento recibirán, cada uno, una tarjeta personal e intransferible que les identifica como usuarios del servicio de carsharing de BLUEMOVE, la clave de usuario de dicha tarjeta y la correspondiente contraseña (código PIN). Con esa tarjeta, podrán el CLIENTE o USUARIO acceder al interior de cualquier vehículo de la flota de BLUEMOVE que hayan reservado. En caso de pérdida o robo de la tarjeta, el CLIENTE o USUARIO que sea titular de la misma lo comunicará de inmediato (en el acto) a la línea de asistencia telefónica de BLUEMOVE, que procederá a su anulación y a la emisión de una nueva tarjeta que pondrá a disposición del CLIENTE o USUARIO afectado. La emisión de cada nueva tarjeta sustitutoria de la perdida o sustraída determinará un recargo de veinticinco (25) euros en la factura inmediata siguiente que se gire al CLIENTE.
 
 Adicionalmente, en caso de BAJA del servicio por parte del CLIENTE o cualquier USUARIO, el CLIENTE o USUARIO deberán proceder a la devolución de la tarjeta electrónica a BLUEMOVE o en su defecto deberá abonar veinticinco (25) euros en concepto de la misma. El CLIENTE será responsable, frente a BLUEMOVE y frente a terceros, de cualquier uso abusivo de su propia tarjeta o de aquellas de las que sean titulares los USUARIOS por aquél autorizados, entendiéndose por tal el realizado por cualquier tercero que no sean el propio CLIENTE o el USUARIO, es decir, no sólo en los casos de pérdida o robo de aquélla sino, también, cuando el uso de la misma por terceros haya sido conocido y/o consentido por el CLIENTE o el USUARIO. En todo supuesto de sustitución de la tarjeta (por pérdida o robo de la misma o por bloqueo temporal en caso de suspensión de los efectos de este contrato o de las autorizaciones concedidas a los USUARIOS designados por el CLIENTE), el CLIENTE está obligado a pagar el recargo que se especifica, para tal caso, en el cuadro anexo a estas condiciones generales en el que se relacionan y detallan los recargos especiales. En caso de incumplimiento de cualesquiera de las obligaciones que el CLIENTE (y, en su caso, el USUARIO) asume y acepta en este contrato, y singularmente en caso de impago de los servicios de carsharing disfrutados y/o de los recargos que correspondan, BLUEMOVE podrá retirar o bloquear la tarjeta y anulará las reservas existentes a nombre del CLIENTE y de los USUARIOS por él autorizados, hasta que el CLIENTE (o, en su caso, el USUARIO) regularice su situación. BLUEMOVE notificará al CLIENTE la retirada o bloqueo de la/s tarjeta/s y su causa. El CLIENTE está obligado a notificar de inmediato (en el acto) a BLUEMOVE cualquier desautorización que decida respecto de USUARIOS previamente autorizados por él. Desde ese momento, quedará bloqueada la tarjeta de dicho USUARIO y serán anuladas cuantas reservas éste tuviera efectuadas y pendientes de ejecutar.
 
-Tercera.- Reserva de vehículos.-
+#### Tercera.- Reserva de vehículos.-
 
 1. El CLIENTE y los USUARIOS podrán efectuar la reserva de vehículos por vía telemática (entrando en la web de BLUEMOVE), a través de la aplicación móvil de BLUEMOVE (introduciendo m.bluemove.es en el navegador del móvil), o a través de la línea de asistencia telefónica. En todos los casos, deberán indicar su clave de usuario y su contraseña. Las reservas o modificaciones de reserva efectuadas por vía telefónica tienen un recargo de un (1) euro si se realizan entre las 09:00 y las 21:00 y un recargo de un (5) euros si se realizan fuera de esa franja horaria.
 
@@ -42,7 +42,7 @@ Tercera.- Reserva de vehículos.-
 
 7. BLUEMOVE confirmará la reserva al CLIENTE o USUARIO, en el tiempo más breve posible y siempre por el mismo conducto telemático o telefónico utilizado por aquéllos para realizar la reserva, indicándoles simultáneamente todos los datos de identificación del vehículo asignado, así como el lugar en que el CLIENTE o USUARIO deberán proceder a su recogida y posterior devolución.
 
-Cuarta.- Limitaciones generales de uso de los vehículos por el CLIENTE o el USUARIO.-
+#### Cuarta.- Limitaciones generales de uso de los vehículos por el CLIENTE o el USUARIO.-
 
 Los vehículos cedidos por BLUEMOVE en carsharing sólo pueden ser utilizados por el CLIENTE o USUARIO para los fines y en las condiciones que les sean propios según las características y naturaleza de aquéllos. El CLIENTE será personalmente responsable (sin perjuicio de su derecho a repetir, en su caso, contra el USUARIO por él autorizado) de cualquier uso del vehículo para fines o en condiciones distintos de los que le sean propios, incluyendo en esta responsabilidad la posible pérdida de la cobertura del seguro que BLUEMOVE tiene contratado para todos los referidos vehículos. En particular, y sin que esta enumeración tenga carácter exhaustivo, ningún vehículo podrá ser utilizado:
 
@@ -58,7 +58,7 @@ Los vehículos cedidos por BLUEMOVE en carsharing sólo pueden ser utilizados po
 
 6. En competiciones deportivas, manifestaciones y/o demostraciones o espectáculos de cualquier clase.
 
-Quinta.- Recogida y puesta en marcha del vehículo reservado y algunas indicaciones elementales de uso del mismo.-
+#### Quinta.- Recogida y puesta en marcha del vehículo reservado y algunas indicaciones elementales de uso del mismo.-
 
 1. El CLIENTE/USUARIO deberán recoger el vehículo que tengan reservado en el lugar de aparcamiento del mismo que se les haya indicado en la confirmación de la reserva.
 
@@ -78,7 +78,7 @@ Quinta.- Recogida y puesta en marcha del vehículo reservado y algunas indicacio
 
 9. Al devolver el vehículo en el lugar fijado en la reserva, el CLIENTE/USUARIO deberá dejar la llave del mismo en el terminal (ordenador) de la guantera y, al salir del coche, cerrarlo utilizando su tarjeta personal de CLIENTE/USUARIO, poniendo la misma sobre el distintivo de BLUEMOVE situado en el parabrisas. De este modo, BLUEMOVE tendrá conocimiento de que ha terminado la reserva.
 
-Sexta.- Carburante.-
+#### Sexta.- Carburante.-
 
 1. El carburante está incluido en el precio de la reserva. Para cargar carburante, el CLIENTE/USUARIO empleará la tarjeta de carburante que, igualmente, encontrará en la guantera del vehículo. Una vez terminada la carga de carburante, el CLIENTE/USUARIO pagará con dicha tarjeta y volverá a depositarla en la guantera. Tanto si la tarjeta de carburante no se encontrase en la guantera, como si el CLIENTE/USUARIO no encontrase una estación de servicio que le permita su empleo, pagará el combustible y enviará el correspondiente justificante a BLUEMOVE, que se lo reembolsará. El justificante de pago de carburante realizado directamente por el CLIENTE/USUARIO deberá estar fechado, indicar la cantidad de carburante suministrado y su importe y, en el mismo, el CLIENTE/USUARIO deberá anotar su clave de usuario y la matrícula del vehículo, antes de remitirlo a BLUEMOVE, a fin de que el reembolso sea posible.
 
@@ -88,17 +88,17 @@ Sexta.- Carburante.-
 
 4. El CLIENTE/USUARIO es responsable de vigilar que el vehículo sólo se cargue con el carburante adecuado al mismo. En caso de incumplimiento de este deber, el CLIENTE deberá pagar los costes derivados de la necesidad de vaciado del depósito y, en su caso, los costes de reparación del vehículo, si ésta fuese necesaria, costes que, en todo caso, le facturará, debidamente justificados, BLUEMOVE.
 
-Séptima.- Limpieza y mantenimiento de los vehículos.-
+#### Séptima.- Limpieza y mantenimiento de los vehículos.-
 
 Con la periodicidad razonable y, en su caso, la fijada por el fabricante del vehículo, BLUEMOVE realiza la limpieza de éstos y las operaciones de mantenimiento de los mismos. En caso de que, por cualquier motivo, el vehículo reservado se ensuciase interna o externamente más de lo razonablemente esperable en función de su uso, el CLIENTE/USUARIO deberá efectuar a su costa las operaciones de limpieza que sean necesarias, antes de devolverlo. Si no lo hiciere, se le aplicará el recargo previsto al respecto en el cuadro anexo recargos especiales de estas condiciones generales.
 
-Octava.- Utilización del Terminal (ordenador) de a bordo del vehículo.-
+#### Octava.- Utilización del Terminal (ordenador) de a bordo del vehículo.-
 
 1. El ordenador de a bordo sólo puede ser utilizado en zonas en las que exista cobertura de telefonía móvil. En las demás zonas, todas las operaciones y/o gestiones deberán realizarse utilizando la línea telefónica de asistencia de BLUEMOVE, que el CLIENTE/USUARIO conoce.
 
 2. El ordenador de a bordo incorpora teclas de función y teclas numéricas. Las teclas de función están situadas en el extremo superior de la pantalla del ordenador y en pantalla aparecerá indicado, en cada momento, la operación y/o gestión que se esté realizando. Las teclas numéricas se emplean para introducir el PIN del CLIENTE/USUARIO y el resto de datos numéricos que sea necesario consignar o transmitir, en su caso.
 
-Novena.- Seguro de los vehículos, coberturas y obligaciones del CLIENTE/USUARIO en relación con el seguro.-
+#### Novena.- Seguro de los vehículos, coberturas y obligaciones del CLIENTE/USUARIO en relación con el seguro.-
 
 1. Todos los vehículos de la flota de BLUEMOVE cuentan con un seguro a todo riesgo que, en caso de accidente, cubre la responsabilidad civil obligatoria, la responsabilidad civil complementaria, los daños personales del CLIENTE/USUARIO conductor y demás ocupantes del vehículo y los daños al propio vehículo. Independientemente del mismo se tendrá en cuenta lo estipulado en la Cláusula Décima de estas Condiciones Generales.
 
@@ -108,13 +108,13 @@ Novena.- Seguro de los vehículos, coberturas y obligaciones del CLIENTE/USUARIO
 
 4. Las condiciones completas (particulares, especiales y generales) de este seguro se encuentran a disposición del CLIENTE en la página web de BLUEMOVE y éste recibirá una copia de las mismas si las solicita por escrito certificado o por correo electrónico y con acuse de recibo, a BLUEMOVE. 5. En todo supuesto de inmovilización del vehículo para su reparación en caso de accidente, o siniestro del vehículo, y si el CLIENTE/USUARIO fuese responsable del mismo, estará el CLIENTE obligado a pagar a BLUEMOVE la cantidad de cien (100) euros por día de inmovilización o fracción del mismo (máximo de cuatro días, que también sería lo aplicable en caso de siniestro del vehículo).
 
-Décima.- Franquicias y reducción de responsabilidad del CLIENTE/USUARIO.-
+#### Décima.- Franquicias y reducción de responsabilidad del CLIENTE/USUARIO.-
 
 1. El seguro incorpora una franquicia de ciento noventa y cinco (195) euros (salvo para los vehículos eléctricos en los que ésta será de tres cientos (300) euros) o de cuatrocientos cincuenta (450) euros (para todos los vehículos incluidos los de gasolina) si el usuario tiene menos de un año de antigüedad de carnet para todos los supuestos de daños propios derivados de accidente o incendio. Cuantos daños requieran una reparación de importe inferior a esta franquicia, deberán ser asumidos por el CLIENTE (sin perjuicio de su derecho a repetir, en su caso, contra el USUARIO responsable del accidente) y le serán facturados por BLUEMOVE, pudiendo el CLIENTE solicitar el envío de la factura de reparación que los justifique.
 
 2. No obstante lo previsto en el apartado anterior, el CLIENTE puede contratar, en beneficio propio y, en su caso, de los USUARIOS que tenga autorizados, la eliminación de sus responsabilidades por razón de la franquicia acabada de indicar, mediante el pago a BLUEMOVE de la suma de ochenta y nueve (89) euros anuales (y en su caso, ochenta y nueve (89) euros anuales más por cada USUARIO que el CLIENTE tenga autorizado). En tal supuesto, el pago de todas las reparaciones cuyo coste quede por debajo de la franquicia del seguro, será asumido por BLUEMOVE.
 
-Undécima.- Comunicaciones a dirigir por el CLIENTE/USUARIO a BLUEMOVE, en todo caso de desperfectos, averías, accidentes o robo del vehículo.-
+#### Undécima.- Comunicaciones a dirigir por el CLIENTE/USUARIO a BLUEMOVE, en todo caso de desperfectos, averías, accidentes o robo del vehículo.-
 
 1. En todo caso de desperfectos o pequeñas averías (no inmovilizantes del vehículo), el CLIENTE/USUARIO deberá comunicarlo de inmediato a BLUEMOVE a través de la línea telefónica de asistencia o a través de un correo electrónico a buenosdias@bluemove.es. A falta de esta comunicación, BLUEMOVE considerará responsable del desperfecto o avería al último USUARIO que haya utilizado el vehículo antes de su detección (y, consecuentemente, al CLIENTE del que el citado USUARIO dependa).
 
@@ -124,13 +124,13 @@ Undécima.- Comunicaciones a dirigir por el CLIENTE/USUARIO a BLUEMOVE, en todo 
 
 4. En caso de robo del vehículo: o El CLIENTE/USUARIO está obligado a comunicarlo a BLUEMOVE a través de la línea telefónica de asistencia y a denunciar el robo a la Policía en el plazo máximo de veinticuatro (24) horas, contadas desde que tenga conocimiento del mismo, incluso si el vehículo fuese posteriormente encontrado. o Con independencia de ello, el CLIENTE/USUARIO remitirá a BLUEMOVE, en el plazo máximo de siete (7) días una copia de la denuncia formulada a la Policía. Si el incumplimiento de ésta obligación diese lugar a la denegación de cobertura del seguro por parte de la aseguradora, el CLIENTE (sin perjuicio de su derecho a repetir contra el USUARIO que de él dependa) responderá exclusiva y personalmente de todos los daños y/o perjuicios que ello cause a BLUEMOVE o a terceros.
 
-Duodécima.- Tarifa de precios.-
+#### Duodécima.- Tarifa de precios.-
 
 Junto con el documento suscrito por el CLIENTE en el que se contienen las condiciones particulares que le remiten a las tarifas publicadas en la página web de BLUEMOVE (incluida la tarifa de precios de su contrato con BLUEMOVE), el CLIENTE recibe las presentes condiciones generales a que se le facturarán los servicios de carsharing que le sean prestados por BLUEMOVE al propio CLIENTE o, en su caso, a los USUARIOS autorizados por éste. Estas condiciones generales se encuentran disponibles a disposición del CLIENTE en la página web de BLUEMOVE (bluemove.es/es/condiciones-generales) y se consideran entregadas al CLIENTE mediante su aceptación (seleccionando el botón correspondiente) durante el proceso de alta en BLUEMOVE. Adicionalmente, si el CLIENTE ha realizado el alta por internet (online) o en el local comercial de BLUEMOVE rellenando el formulario digital, éste no dispondrá de un documento físico con las condiciones particulares, y por tanto éstas hacen referencia a las condiciones incluidas en la sección de tarifas de la página web de BLUEMOVE (bluemove.es/es/precios/precios-para-particulares).
 
 Estas condiciones particulares, entre otras cosas, indican lo siguiente: Inicialmente, el CLIENTE dispondrá durante 6 meses de la tarifa Blue Bienvenida (que corresponde a la tarifa Blue Mensual pero con un descuento del 100% de la cuota mensual de 5 euros) según las tarifas publicadas en la página web de BLUEMOVE (bluemove.es/es/precios/tarifas). Durante los primeros 6 meses al CLIENTE se le aplicará el precio de 2 euros por hora + 0,25 euros por kilómetro en todos los usos realizados en los vehículos de la gama "Economy" (las gamas de vehículo y sus localizaciones se pueden ver en la página web de BLUEMOVE: bluemove.es/es/coches). Al finalizar los anteriores 6 meses, el Cliente pasará automáticamente a la tarifa Blue Mensual (con una cuota mensual de 5 euros, según las tarifas publicadas en la página web de BLUEMOVE - bluemove.es/es/precios/tarifas), salvo que indique lo contrario a BLUEMOVE por correo electrónico a la dirección buenosdias@bluemove.es. Si el CLIENTE lo estima oportuno, BLUEMOVE le recomendará la tarifa que mejor se adapte a sus necesidades según la pauta de usos presentada por el mismo. La tarifa de precios podrá ser modificada por BLUEMOVE en cualquier momento, bien para adaptarla a las modificaciones anuales del índice de precios de consumo general nacional o, con menor o distinta periodicidad, para adaptarla a las modificaciones de los precios de los combustibles o de los seguros contratados por BLUEMOVE para su flota (o de cualquier otro de sus proveedores o de las autoridades fiscales). Cualquier modificación de la tarifa será notificada por escrito al CLIENTE (remitiéndole a las tarifas publicadas en la página web), mediante correo electrónico o, en su caso, postal con acuse de recibo, sin tener nunca efecto retroactivo respecto a reservas efectuadas y ya consumidas o en curso de ejecución en el momento de producirse la notificación. En el supuesto de que el CLIENTE quiera cambiar de tarifa, éste podrá hacerlo en cualquier momento previa comunicación telefónica a BLUEMOVE, aunque previo aviso de 31 días (mínimo) antes del inicio del mes para el cual quiera modificar dicha tarifa (ésta sólo se podrá modificar al iniciar un mes natural). En ningún caso se procederá a la devolución por parte de BLUEMOVE de ninguna cuota anual o mensual del pasado (ni total ni parcialmente).
 
-Decimotercera.- Facturación y pago de facturas.-
+#### Decimotercera.- Facturación y pago de facturas.-
 
 Las facturas por servicios prestados, incluidos en su caso los recargos previstos en el cuadro anexo a estas condiciones generales en los que el CLIENTE o USUARIO haya incurrido, se expedirán por BLUEMOVE por cada uso realizado del servicio, durante los siguientes días a la finalización del mismo. El cargo a la tarjeta de crédito o débito del CLIENTE o USUARIO se realizará automáticamente al finalizar el servicio prestado por parte de BLUEMOVE. Sin embargo, al realizar la reserva del servicio, se bloqueará automáticamente en la tarjeta de crédito o débito del CLIENTE o USUARIO el triple del valor monetario en euros del tiempo reservado según la tarifa vigente del CLIENTE o USUARIO. Se producirá el mismo procedimiento en caso de modificaciones de reserva durante la misma. Para los casos excepcionales pactados con BLUEMOVE discrecionalmente y bajo sus condiciones, las facturas se expedirán por meses naturales vencidos, se remitirán al CLIENTE por correo electrónico y serán pagaderas dentro de los diez días siguientes a la fecha de su expedición, con cargo a la cuenta bancaria en que su pago haya sido domiciliado o con cargo a la/s tarjeta/s de crédito especificada/s por el CLIENTE, en ambos casos en las condiciones particulares del contrato. Sin embargo, existen cuatro excepciones a la política de facturación anterior:
 
@@ -140,11 +140,11 @@ Las facturas por servicios prestados, incluidos en su caso los recargos previsto
 
 3. Para los casos de domiciliación bancaria, y salvo casos excepcionales determinados por BLUEMOVE de forma discrecional, BLUEMOVE podrá discrecionalmente exigir un pre-pago en los consumos del CLIENTE o en su caso una fianza en función de los consumos mensuales esperados, a fijar a discreción de BLUEMOVE. En su caso, no podrán variarse los datos de domiciliación bancaria indicados por el CLIENTE o USUARIO en las condiciones particulares, sin el previo consentimiento de BLUEMOVE. El impago por el CLIENTE de cualquier factura determinará la suspensión inmediata del derecho a efectuar nuevas reservas y la anulación de las reservas efectuadas, por el propio CLIENTE o por cualquier USUARIO designado por él, y aún no consumidas, hasta que el CLIENTE regularice su situación. El impago de cualquier factura determinará la aplicación del correspondiente recargo por gastos de gestión del impagado, que se incluirá en la factura inmediata siguiente que BLUEMOVE expida a cargo del CLIENTE, una vez regularizada la situación de éste. En caso de no regularizarse la situación con BLUEMOVE en un plazo de un mes, éste emitirá una factura al mes siguiente o durante los siguientes 6 meses en concepto de cualquier recargo especial adeudado y en concepto de recargo por gastos administrativos y legales de gestión del impagado, ascendiendo éstos a un máximo de 400 euros. El impago reiterado de facturas, con un mínimo de dos de ellas sucesivas o alternas, será causa suficiente de resolución del contrato, desde el momento mismo en que BLUEMOVE notifique dicha resolución al CLIENTE por escrito (mediante correo electrónico o postal). Cualquier reclamación por disconformidad con cualquier factura deberá ser cursada por el CLIENTE a BLUEMOVE en el plazo máximo de quince (15) días, contados desde la fecha de remisión de la factura, y por escrito (correo electrónico o postal). Transcurrido el indicado plazo, la factura se entenderá aceptada por el CLIENTE. La rectificación de cualquier factura por aceptación por BLUEMOVE de la reclamación realizada por el CLIENTE, se consignará en la factura inmediata siguiente que BLUEMOVE expida con cargo al mismo CLIENTE.
 
-Decimocuarta.- Recargos especiales.-
+#### Decimocuarta.- Recargos especiales.-
 
 BLUEMOVE aplicará en cada factura los recargos especiales que correspondan, cuando se hayan producido alguno o varios de los hechos que las justifican y que se precisan, así como sus respectivos importes en euros, en el cuadro anexo a estas condiciones generales. El cuadro anexo es un listado indicativo, pero no exhaustivo, de las incidencias que pueden producirse en la ejecución o consumo de cualquier reserva efectuada, pero no prevé todas las incidencias que pueden dar lugar a costes adicionales que el CLIENTE tenga obligación de soportar, según las presentes condiciones generales y las particulares del contrato.
 
-Decimoquinta.- Protección de datos CLIENTE/USUARIO y de terceros.-
+#### Decimoquinta.- Protección de datos CLIENTE/USUARIO y de terceros.-
 
 Todos los datos personales del CLIENTE o de los USUARIOS autorizados por él y de terceros relacionados con el uso y conducción de los vehículos de la flota de BLUEMOVE se conservarán y administrarán en una base de datos de cuya custodia y correcta administración es responsable exclusiva BLUEMOVE, personificada en Mónica Gheorghe, y cuya dirección de correo electrónico a este sólo efecto es monica@bluemove.es. BLUEMOVE se compromete a utilizar esa base de datos exclusivamente con los siguientes fines, con respeto en todo caso de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y de la normativa de su desarrollo:
 
@@ -156,7 +156,7 @@ Todos los datos personales del CLIENTE o de los USUARIOS autorizados por él y d
 
 4. La transmisión de los datos personales del CLIENTE a cualquier entidad a la que BLUEMOVE contrate para lograr la recuperación de deudas de aquél en situación de mora, incluso la remisión de los mismos datos, exclusivamente en supuestos de morosidad del CLIENTE, a entidades que gestionen bases de datos de morosidad y solvencia patrimonial. BLUEMOVE no cederá en ningún caso (salvo los casos indicados en los cuatro apartados precedentes) los datos del CLIENTE, ni de los USUARIOS designados por éste, ni de terceros, que obren en su fichero, a los que sólo tiene acceso el personal dependiente de BLUEMOVE que tiene encomendadas las relaciones comerciales con los CLIENTES. Si el CLIENTE no desea que sus datos personales sean tratados con la finalidad prevista en el apartado 2 precedente, deberá consignarlo así explícitamente en las condiciones particulares del contrato y en el lugar de las mismas destinado a este efecto, incluyendo en todo caso su firma junto a la declaración que en tal sentido formule (con independencia de su firma final en las propias condiciones particulares). El CLIENTE, así como los USUARIOS designados por él, podrán ejercitar sus derechos de acceso, rectificación, modificación, cancelación y oposición en relación con sus datos de carácter personal mediante comunicación escrita dirigida al responsable de la custodia y mantenimiento de la base de datos indicado al comienzo de esta condición general y a la dirección de correo electrónico indicada en la misma. El CLIENTE acepta que desde una perspectiva de protección de datos todos los datos compartidos con BLUEMOVE podrán ser utilizados por su empresa matriz, cualquiera de sus filiales indistintamente, o su proveedor de servicios de software de carsharing (por motivos puramente técnicos y operativos debido a la naturaleza del servicio). De la misma forma su vinculación contractual con la matriz o cualquiera de sus filiales tiene validez legal con cualquiera de las empresas del grupo (matriz o filiales). Especial referencia al sistema de localización de vehículos.- Todos los vehículos de BLUEMOVE están dotados con un sistema GPS que permite su localización, por razones obvias de pura supervivencia de su actividad. En la utilización del GPS de localización de vehículos BLUEMOVE respetará siempre la privacidad de sus CLIENTES/USUARIOS, de modo que aquél será empleado exclusivamente para controlar el retraso de los vehículos que no se devuelvan al final de una reserva y en caso de robo del vehículo. Solamente en caso de robo del vehículo, BLUEMOVE compartirá la información suministrada por el GPS con los Cuerpos de Seguridad y demás autoridades administrativas y judiciales o empresas privadas que necesiten esa información con el fin de recuperar el vehículo robado.
 
-Decimosexta.- Duración, suspensión y otros supuestos de extinción del contrato.-
+#### Decimosexta.- Duración, suspensión y otros supuestos de extinción del contrato.-
 
 1. Sin perjuicio de los supuestos de suspensión y resolución del contrato por causa de incumplimiento por el CLIENTE, previstos en la condición general decimotercera y de las condiciones particulares, el contrato celebrado entre el CLIENTE y BLUEMOVE es de duración indefinida, pudiendo el CLIENTE darlo por terminado en cualquier momento, mediante simple comunicación escrita, por correo postal o electrónico, o mediante comparecencia personal en las oficinas de BLUEMOVE. La terminación del contrato así formalizada a iniciativa del CLIENTE no liberará a éste en ningún caso de su obligación de efectuar el pago de todas las facturas ya giradas al CLIENTE por BLUEMOVE ni de cuantas estén pendientes de expedición por consumos realizados o en trámite de realización por el CLIENTE o los USUARIOS designados por éste con anterioridad al momento del desistimiento.
 
@@ -164,11 +164,11 @@ Decimosexta.- Duración, suspensión y otros supuestos de extinción del contrat
 
 3. En cualquier supuesto de desistimiento del contrato por el CLIENTE o de resolución por decisión de BLUEMOVE, ésta dispondrá de un plazo de treinta (30) días para proceder al reembolso de la fianza depositada por el CLIENTE al tiempo de celebrar el contrato, previa deducción de cuantas cantidades sean debidas por el CLIENTE a BLUEMOVE en ese momento.
 
-Decimoséptima.- Quejas y reclamaciones.-
+#### Decimoséptima.- Quejas y reclamaciones.-
 
 El CLIENTE, y en su caso el USUARIO autorizado, podrán formular cualquier tipo de quejas o reclamaciones sobre los servicios de carsharing prestados por BLUEMOVE mediante correo electrónico remitido a la dirección buenosdias@bluemove.es que es la del servicio de atención al CLIENTE.
 
-Decimoctava.- Contrato, nulidad parcial y ley aplicable y jurisdicción.-
+#### Decimoctava.- Contrato, nulidad parcial y ley aplicable y jurisdicción.-
 
 1. El contrato lo integran las presentes condiciones generales, las condiciones particulares suscritas por el CLIENTE, incluidos la tarifa de precios y el cuadro anexo de recargos especiales que el CLIENTE ha recibido al suscribir las condiciones particulares, las sucesivas tarifas de precios que sean notificadas al CLIENTE durante la vigencia del contrato y, en fin, los formularios mediante los que el CLIENTE designe a los USUARIOS autorizados por él. El CLIENTE autoriza a que todos estos documentos sean conservados por BLUEMOVE en un soporte informático inalterable. El CLIENTE se obliga a entregar una copia completa de todos esos documentos a cuantos USUARIO él haya autorizado o autorice a lo largo de la vigencia del contrato.
 
@@ -178,55 +178,63 @@ Decimoctava.- Contrato, nulidad parcial y ley aplicable y jurisdicción.-
 
 4. Para cuantas diferencias puedan surgir entre el CLIENTE o los USUARIOS por él autorizados y BLUEMOVE, en relación con la interpretación y cumplimiento del contrato, ambas partes se someten a la jurisdicción ordinaria de los Tribunales españoles.
 
-ANEXO: Cuadro de “Recargos Especiales”
+#### ANEXO: Cuadro de “Recargos Especiales”
 
-1. Reserva, modificación de reserva, o llamada telefónica al teléfono de emergencias de Bluemove sin que ésta sea por una emergencia:
++ Reserva, modificación de reserva, o llamada telefónica al teléfono de emergencias de Bluemove sin que ésta sea por una emergencia:
 
-por teléfono entre las 09:00 y las 21:00 - 2€
-por teléfono entre las 21:00 y las 09:00 - 5€
-por internet - 0€
+    + por teléfono entre las 09:00 y las 21:00 - 2€
+    + por teléfono entre las 21:00 y las 09:00 - 5€
+    + por internet - 0€
+
 El criterio imperante sobre si una llamada se califica de emergencia o no será el criterio del Equipo de BLUEMOVE
-2. Anulación de reserva:
 
-recargo fijo en caso de anulación con más de dos horas de antelación - 0€
-recargo fijo en caso de anulación con menos de dos horas de antelación - 100% de las horas de la reserva inicial
-3. Reducción de duración de la reserva:
++ Anulación de reserva:
 
-con más 30 min de antelación - 0€
-con menos 30 min de antelación - 100% de las horas de la reserva inicial
-4. Retraso en la devolución - 0,45 € / minuto
+    + recargo fijo en caso de anulación con más de dos horas de antelación - 0€
+    + recargo fijo en caso de anulación con menos de dos horas de antelación - 100% de las horas de la reserva inicial
 
-5. Devolución del vehículo:
++ Reducción de duración de la reserva:
 
-con menos de un cuarto del depósito lleno - 50€
-en condiciones inadecuadas de limpieza - 50€
-habiendo transportado animales fuera de su jaula - 50€
-con los faros encendidos - 50€
-sin el cierre de puertas exigido - 50€
-en un lugar diferente al de devolución previsto en la reserva - 50€ + gastos de traslado del vehículo
-sin dejar las llaves en el terminal de la guantera - 25€
-sin dejar un vehículo eléctrico debidamente enchufado en su toma de corriente situada al lado de la plaza de aparcamiento base del vehículo - 50€
-sin poder devolver el vehículo eléctrico por falta de carga de batería, por haber realizado más kilómetros de los que permite la autonomía del vehículo - 50€ + gastos de traslado del vehículo
-6. Pérdidas o sustituciones:
+    + con más 30 min de antelación - 0€
+    + con menos 30 min de antelación - 100% de las horas de la reserva inicial
 
-tarjeta de usuario - 25€
-tarjeta de carburante - 25€
-tarjeta de aparcamiento - 25€
-llaves del vehículo - 25€ + el coste de la llave
-documentación del vehículo - 10€
-7. Accidente:
++ Retraso en la devolución - 0,45 € / minuto
 
-por la no comunicación de un accidente - 100€
-por la inmovilización del vehículo - 100€ por día hasta 4 días
-cargo administrativo en caso de accidente para clientes que no hayan contratado la reducción de responsabilidad - 10€
-franquicia por daño, accidente o incendio asumida en su totalidad por el socio en caso de no haber contratado la reducción de responsabilidad* - 195€ (para conductores con más de un año de antigüedad salvo para vehículos eléctricos donde ésta será de 300€)*
-franquicia por daño, accidente o incendio asumida en su totalidad por el socio en caso de no haber contratado la reducción de responsabilidad* - 450€ (para conductores con menos de un año de antigüedad para todos los vehículos incluidos los eléctricos)*
-8. Otros recargos:
++ Devolución del vehículo:
 
-cargo administrativo en caso de multa - 15€
-por tratamiento administrativo de reclamación de recibos impagados, aparte de los costes bancarios que produzca la devolución - 10€
-por tratamiento administrativo de la segunda reclamación de recibos impagados, aparte de los costes bancarios que produzca la devolución - 25€
-por retirar cualquier soporte publicitario del vehículo - 50€
-por fumar dentro del vehículo - 50€
-por repostar en las gasolineras no pertinentes a la red Solred - 3€
-*La reducción de responsabilidad tiene un coste anual de 89€.
+    + con menos de un cuarto del depósito lleno - 50€
+    + en condiciones inadecuadas de limpieza - 50€
+    + habiendo transportado animales fuera de su jaula - 50€
+    + con los faros encendidos - 50€
+    + sin el cierre de puertas exigido - 50€
+    + en un lugar diferente al de devolución previsto en la reserva - 50€ + gastos de traslado del vehículo
+    + sin dejar las llaves en el terminal de la guantera - 25€
+    + sin dejar un vehículo eléctrico debidamente enchufado en su toma de corriente situada al lado de la plaza de aparcamiento base del vehículo - 50€
+    + sin poder devolver el vehículo eléctrico por falta de carga de batería, por haber realizado más kilómetros de los que permite la autonomía del vehículo - 50€ + gastos de traslado del vehículo
+
++ Pérdidas o sustituciones:
+    
+    + tarjeta de usuario - 25€
+    + tarjeta de carburante - 25€
+    + tarjeta de aparcamiento - 25€
+    + llaves del vehículo - 25€ + el coste de la llave
+    + documentación del vehículo - 10€
+
++ Accidente:
+
+    + por la no comunicación de un accidente - 100€
+    + por la inmovilización del vehículo - 100€ por día hasta 4 días
+    + cargo administrativo en caso de accidente para clientes que no hayan contratado la reducción de responsabilidad - 10€
+    + franquicia por daño, accidente o incendio asumida en su totalidad por el socio en caso de no haber contratado la reducción de responsabilidad* - 195€ (para conductores con más de un año de antigüedad salvo para vehículos eléctricos donde ésta será de 300€)*
+    + franquicia por daño, accidente o incendio asumida en su totalidad por el socio en caso de no haber contratado la reducción de responsabilidad* - 450€ (para conductores con menos de un año de antigüedad para todos los vehículos incluidos los eléctricos)\*
+
++ Otros recargos:
+    
+    + cargo administrativo en caso de multa - 15€
+    + por tratamiento administrativo de reclamación de recibos impagados, aparte de los costes bancarios que produzca la devolución - 10€
+    + por tratamiento administrativo de la segunda reclamación de recibos impagados, aparte de los costes bancarios que produzca la devolución - 25€
+    + por retirar cualquier soporte publicitario del vehículo - 50€
+    + por fumar dentro del vehículo - 50€
+    + por repostar en las gasolineras no pertinentes a la red Solred - 3€
+
+\*La reducción de responsabilidad tiene un coste anual de 89€.
