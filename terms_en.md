@@ -181,7 +181,6 @@ The CLIENT and where applicable any authorized USER, may make a formal complaint
 #### Attachment.- Table of "Special surcharges".
 
 + Booking, modifications or call emergency hotline about problems that are not an emergency situation:
-
     + by telephone between 09:00 and 21:00 2€
     + by telephone between 21:00 and 9:00 -5€
     + by Internet - 0€
@@ -189,19 +188,16 @@ The CLIENT and where applicable any authorized USER, may make a formal complaint
 The criteria about if a call is an emergency situation or not will be qualified by Bluemove Team
 
 + Booking cancellation:
-
     + fixed surcharge when cancellation is done more than two hours in advance - 0€
     + fixed surcharge in the event that the booking is cancelled less than two hours in advance - 100% of the price of the first two hours of the original booking
 
 + Reduction of the duration of the booking:
-
     + carried out more than 30 minutes in advance- 0€
     + carried out less than 30 minutes in advance - 100% of the initial booking's price
 
 + Delay returning - 0,45 € / minute
 
 + Return of vehicle:
-
     + with fuel tank less than a quarter full- 50€
     + in a condition deemed inadequate- 50€
     + having transported uncaged animals- 50€
@@ -213,7 +209,6 @@ The criteria about if a call is an emergency situation or not will be qualified 
     + without being able to return the electric vehicle due to not having enough power in the battery caused by having driven more kilometers than those allowed by the vehicles autonomy - 50€ + cost of relocating the vehicle
 
 + Losses and replacements:
-
     + user card - 25€
     + fuel card - 25€
     + parking card - 25€
@@ -221,7 +216,6 @@ The criteria about if a call is an emergency situation or not will be qualified 
     + vehicle documentation- 10€
 
 + Accident:
-
     + not communicating an accident - 100€
     + vehicle immobilization - 100€ per day up to 4 days
     + administrative charge in case of accident for those clients that have not taken out reduced liability option10€
@@ -229,7 +223,6 @@ The criteria about if a call is an emergency situation or not will be qualified 
     + excess for damages, accident or fire, solely the responsibility of the partner in the event of not having taken out the reduced liability option* - 450€ (for drivers with under a year's experience including electric vehicles)*
 
 + Other surcharges
-
     + administrative charge in case of fine 15€
     + for administrative proceedings derived from debt collection, not including bank fees - 10€
     + for administrative proceedings derived from reiterated debt collection costs, not including any bank fees - 25€
