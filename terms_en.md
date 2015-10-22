@@ -4,7 +4,7 @@
 
 BLUE SOSTENIBLE, S.L. (or its 100 % participated affiliate, COCHELE S.L.), hereafter known by it's brand name BLUEMOVE, offers its CLIENT the service of use (carsharing), per hour or during previously agreed upon longer time periods, the vehicles which it has available. The CLIENT (and, where applicable, the USER, when the CLIENT is a legal entity and the USER an employee or dependent of the CLIENT) through the carsharing agreement, becomes part of the collective of users of the vehicles belonging to BLUEMOVE, membership of which will permit him or her to use his/her chosen vehicle after reserving it, during a minimum of one hour. Bookings will be made through BLUEMOVE'S website, through BLUEMOVE'S mobile app or over the telephone. The CLIENT (and the USER) must take good care of the vehicle he uses, and must bear in mind the rights of other members of the car sharing service, by keeping his commitments in a timely fashion by punctually picking up and dropping off the vehicle he/she has booked. BLUEMOVE will make sure its vehicles are kept in good condition, good working order and a high standard of cleanliness, and will comply by every legal requirement to guarantee the safety of said vehicles. The CLIENT (and the USER) recognizes and agrees that abiding by the general terms and conditions as laid out in the following section is essential for the carsharing service to remain in good functional use for both himself and for the other users and, because of this, agrees to abide by them scrupulously.
 
-First.- Requirements to be met by the CLIENT (and the USER) to be able to partake in this agreement, maintain its validity and use the carsharing service. .-
+#### First.- Requirements to be met by the CLIENT (and the USER) to be able to partake in this agreement, maintain its validity and use the carsharing service. .-
 
 The CLIENT(and the USER) must be at least 20 years old and hold a valid driver's license valid for the vehicle. Besides this, the CLIENT (and the USER) must provide BLUEMOVE the following documentation and information: At the moment of entering into the agreement:
 
@@ -20,13 +20,13 @@ The CLIENT(and the USER) must be at least 20 years old and hold a valid driver's
 
 After entering into the agreement and during its period of validity : the CLIENT (and the USER) must immediately notify, within a 24 hour time frame, BLUEMOVE of the expiry or temporal suspension of their driver's license, being fully and exclusively responsible in the event of not doing so, for any damages that might be caused to BLUEMOVE or to any third party, both to any property and to any person. In the case of an expired or temporarily suspended driver's license belonging to the CLIENT or any authorized USER, the validity of this agreement shall be suspended (or the validity of the CLIENT's authorization of the affected USER), until the suspension of the driver's license is lifted or it the license is renewed by the CLIENT or when relevant, by the USER. The CLIENT must immediately notify BLUEMOVE, within a period of 24 hours, of any change in the number, residence or category that affects his or her identity documents or his/her driver's license or those belonging to the authorized USERS, as well as any changes that might affect the direct debit charge of invoices payable to BLUEMOVE, or, where applicable, changes in credit/debit card details with which the aforementioned charges should be incurred.
 
-Second.- Delivery,use and incident procedure protocol of the electronic CLIENT/USER card.-
+#### Second.- Delivery,use and incident procedure protocol of the electronic CLIENT/USER card.-
 
 When entering into the agreement , the CLIENT and the USERS authorized by the CLIENT shall each receive a personal and non-transferable card that identifies them as users of the BLUEMOVE carsharing service, a user number corresponding to said card and its corresponding Personal Identification Number (PIN code). With this card, the CLIENT or the USER will be able to open any BLUEMOVE vehicle that they have previously booked. In case of loss or theft of the card, the CLIENT or USER shall immediately notify the incident to BLUEMOVE through the assistance hotline number, which will cancel the lost/stolen card and issue a new one for the CLIENT or USER. The issuing of a card replacement as a result of loss or theft of a previous card shall incur a fee of twenty five (25) euro which will be added to the next invoice made payable by the CLIENT.
 
 Additionally, in the case of the CLIENT or any of the USERS discontinuing their membership subscription, the CLIENT or the USER will have to return the electronic card to BLUEMOVE or pay a penalty fee of twenty five (25) euro for it. The CLIENT will be responsible, both to BLUEMOVE and to third parties, for any abusive use of his/her personal card or that belonging to any of his/her authorized USERS , including any use of made by any third party that is neither CLIENT nor USER, ie, any misuse derived not only from loss or theft of the card, but rather from the use of any third parties even if they are authorised by the CLIENT or any USER. In any case where the card must be replaced (be it due to loss or theft, or temporary suspension due to the effects of this agreement or to the authorizations or lack of granted by the CLIENT to USERS), the client is obliged to pay the surcharge as specified in the table attached to these terms and conditions in which surcharge amounts and reasons are laid out in detail. Non-compliance with any of the duties accepted by the CLIENT (and USER) when entering into this agreement, and especially non-payment for the carsharing services and any applicable surcharges may result in BLUEMOVE withdrawing or blocking the card and cancelling any existing bookings made by the CLIENT and any authorized USERS until the CLIENT (or the USER) returns the situation to normal. BLUEMOVE shall notify the CLIENT about the withdrawal or blocking of the card/s and the motive for the action taken. The CLIENT is obliged to immediately notify BLUEMOVE of any de-authorization of any USER previously AUTHORIZED by him or her. As of that moment, said USER's card shall be blocked and any bookings made by the USER shall be cancelled.
 
-Third.- Booking vehicles.-
+#### Third.- Booking vehicles.-
 
 1. The CLIENT and the USERS will be able to book vehicles via the Internet (by going to BLUEMOVE's website), through BLUEMOVE's mobile app (by imputing m.bluemove.es in the smartphone's web browser), or over the phone through the assistance hotline. In every case, they will have to introduce their user number and password. Bookings or modifications to existing bookings carried out over the phone have a surcharge of one (1) euro if they are made between 09:00 and 21:00 and a surcharge of five (5) euro if made outside that time window.
 
@@ -42,7 +42,7 @@ Third.- Booking vehicles.-
 
 7. BLUEMOVE will confirm the booking to the CLIENT or USER in the shortest possible time and always through the same means as used to make the booking, simultaneously facilitating the information necessary to identify the assigned vehicle, along with the location where the CLIENT or USER will have to pick it up and later return it.
 
-Fourth.- General limitations to vehicle use by the CLIENT or the USER.-
+#### Fourth.- General limitations to vehicle use by the CLIENT or the USER.-
 
 The vehicles assigned for carsharing by BLUEMOVE may only be used by the CLIENT or USER for the purposes and ends and in the conditions specific to each of them. The CLIENT will be personally responsible (without this affecting his or her ability to transfer responsibility to the authorized USER) for any use of the vehicle for purposes or in conditions different to those it is deemed adequate for, this responsibility also including the possible loss of the cover of the insurance provided by BLUEMOVE for all of its vehicles. In particular, and without this being a comprehensive list, no vehicle may be used :
 
@@ -58,7 +58,7 @@ The vehicles assigned for carsharing by BLUEMOVE may only be used by the CLIENT 
 
 6. In sporting competitions, rallies, demonstrations and / or shows of any kind.
 
-Fifth.- Booked vehicle pick up and start and some elementary directions about its use.-
+#### Fifth.- Booked vehicle pick up and start and some elementary directions about its use.-
 
 1. The CLIENT/USER will have to pick up the vehicle that he/she has booked at the location where it is parked that has previously been indicated in the booking confirmation.
 
@@ -78,7 +78,7 @@ Fifth.- Booked vehicle pick up and start and some elementary directions about it
 
 9. Upon returning the vehicle at the place specified within the booking, the CLIENT/USER must deposit its key in the computer terminal located in the glove compartment, and, upon exiting the car, lock it using his personal CLIENT/USER card by placing it over the BLUEMOVE logo on the windshield. This way, BLUEMOVE will be informed that the booking has been terminated.
 
-Sixth.-Fuel.-
+#### Sixth.-Fuel.-
 
 1. The fuel is included in the price of the booking. To tank up, the CLIENT/USER shall use the fuel card that, in the same way, is to be found within the glove compartment of the vehicle. Once the fuel is replenished, the CLIENT/USER will proceed to pay with said card and will return it to the glove compartment when finished. In the event that the card is not in the glove compartment or that the CLIENT/USER is not in the vicinity of a service stations where it is accepted, the CLIENT/USER shall pay for the fuel and send BLUEMOVE the receipt in order to be reimbursed. The receipt must be dated, and it must state the amount of fuel supplied and its worth. On it, the CLIENT/USER must make a note of his user number and the vehicle's registration plate so that BLUEMOVE can proceed to reimburse the amount.
 
@@ -88,17 +88,17 @@ Sixth.-Fuel.-
 
 4. The CLIENT/USER is responsible for making sure that the fuel deposit is filled only with the adequate type of fuel for the vehicle. Should this not be the case, the CLIENT will have to pay the costs incurred from any reparation work undergone by the vehicle. These costs would be in any case outlined in detail in an invoice sent to the client by BLUEMOVE.
 
-Seventh.- Cleanliness and maintenance of the vehicles.-
+#### Seventh.- Cleanliness and maintenance of the vehicles.-
 
 BLUEMOVE shall, with a reasonable frequency or, in any case that recommended by the vehicle's manufacturer, undertake the cleaning and maintenance operations necessary for the ideal upkeep of it. In the event that, for whatever reason, the booked vehicle were to become more dirty, either inside or outside, than what can reasonably be expected through normal use, the CLIENT/USER will have to clean it, at his or her own expense, before returning it. Should he or she fail to so, a surcharge will be charged as specified within the surcharge table attached to these general terms and conditions.
 
-Eighth.- Use of the vehicle's on board computer terminal.-
+#### Eighth.- Use of the vehicle's on board computer terminal.-
 
 1. The on board computer may only be used inside the area where there is a mobile phone signal. In other areas any other operations and/or modifications to do with the booking will have to be done using BLUEMOVE'S assistance hotline, already known to the CLIENT/USER.
 
 2. The on board computer has function and numeric keys. The function keys are located on the top part of the screen on which, the current operation being undertaken shall be reflected at all times. The numeric keys are to used to input the CLIENT/USER's PIN and any other numerical data that might need to be transmitted.
 
-Ninth.- Vehicle insurance cover and CLIENT/USER obligations in relation to insurance.
+#### Ninth.- Vehicle insurance cover and CLIENT/USER obligations in relation to insurance.
 
 1. Every vehicle belonging to BLUEMOVE is covered by a comprehensive insurance policy that, in the event of an accident, covers compulsory civil liability, complementary civil liability, personal injury to the CLIENT/USER and any other occupants of the vehicle and damages to the vehicle. Independently of this, Section Ten of these general Terms and Conditions must be taken into consideration.
 
@@ -108,13 +108,13 @@ Ninth.- Vehicle insurance cover and CLIENT/USER obligations in relation to insur
 
 4. The complete terms (specific, special and general) of this insurance policy are available for the CLIENT to consult on BLUEMOVE's website, and a copy can be sent to the CLIENT if he/she petitions BLUEMOVE for one via certified post or email. 5. In any instance where the vehicle is immobilized due to repair work being undertaken as a result of an accident or damage suffered by the vehicle, and if the CLIENT/USER should be responsible for said event, the CLIENT shall be obliged to pay BLUEMOVE the sum of one hundred (100) euro for each day that the vehicle remains immobilized or the corresponding fraction of aforementioned (maximum of four days, which would also be the maximum applicable time in the event of vehicle loss).
 
-Tenth.- Insurance Excess and reduced CLIENT/USER liability.-
+#### Tenth.- Insurance Excess and reduced CLIENT/USER liability.-
 
 1 The insurance policy has an excess of one hundred and ninety five (195) euro (except for electrical vehicles in which case the excess will be of three hundred (300) euro ), or four hundred and fifty (450) euro (for all vehicles including gasoline engine vehicles) if the user's driver's license was issued less than a year before the booking was made, for any damages caused by an accident or a fire. Any damage requiring repair work for a value below this excess to be undertaken, will have to be paid for by the CLIENT (or by the USER) and will be billed to him or her by BLUEMOVE, with the CLIENT having the right to request a detailed outline of the value of each part to be repaired and its cost.
 
 2. In spite of what is foreseen in the previous section, the CLIENT may take out, in his own interest and in the interest of any USERS he might have authorized, through a payment made to BLUEMOVE of the sum of eighty nine (89) euro per year ( and, where applicable eighty nine (89) euro per year more for every USER that the CLIENT has authorized). In this case, the payment of any repair work undergone by the vehicle which falls below the excess of the insurance policy will be covered by BLUEMOVE.
 
-Eleventh.- Communications to be made by the CLIENT/USER to BLUEMOVE, in case of any damage, breakdowns, accidents or theft of the vehicle.-
+#### Eleventh.- Communications to be made by the CLIENT/USER to BLUEMOVE, in case of any damage, breakdowns, accidents or theft of the vehicle.-
 
 1. In every instance where the vehicle sustains any damage or experiences some technical issues (that are not sufficient cause to immobilize the vehicle) the CLIENT/USER will have to immediately communicate these to BLUEMOVE through the assistance hotline or by sending an email to buenosdias@bluemove.es. Should this communication not be promptly undertaken, BLUEMOVE will hold the last USER to have used the vehicle after the problem is detected responsible for any damage or technical issues with it (and, ultimately, the CLIENT of which the USER is a dependant).
 
@@ -124,13 +124,13 @@ Eleventh.- Communications to be made by the CLIENT/USER to BLUEMOVE, in case of 
 
 4. In case of theft of the vehicle : The CLIENT/USER is obliged to communicate the event to BLUEMOVE through the assistance hotline and to report the events to the Police within a maximum of twenty four (24) hours, starting from the moment when he/she realizes it, even in the case that the vehicle is later found. Independently of this, the CLIENT/USER shall send BLUEMOVE within seven (7) days, a copy of the Police report. In the event that noncompliance with this obligation resulted in the insurance company withdrawing its cover, the CLIENT (or the USER dependent on the CLIENT) will have to answer exclusively and personally for any damage that might have been caused to BLUEMOVE or any third parties.
 
-Twelfth.- Price rates.-
+#### Twelfth.- Price rates.-
 
 Together with the document signed by the CLIENT in which the specific conditions which refer him or her to BLUEMOVE's website where the published price rates are contained (including the price rates of his or her agreement with BLUEMOVE), the CLIENT hereby receives the general terms and conditions he or she is subject to and according to he or she will be billed for the carsharing services provided by BLUEMOVE to the CLIENT, or where applicable, the USERS authorized by the CLIENT. These general terms and conditions are available for the CLIENT to consult at any time on BLUEMOVE's website (bluemove.es/es/condiciones-generales) and are considered to have been made known to the CLIENT by his agreement to them (by clicking on the corresponding button) during the registration process with BLUEMOVE. Additionally, if the client has registered online, or in BLUEMOVES high street office by filling out the digital form, he or she will not have a physical document containing the specific conditions and these therefore make reference to the conditions included within the rates section of BLUEMOVE's website (bluemove.es/es/precios-para-particulares).
 
 These specific conditions, amongst other things, indicate the following: initially, the CLIENT will be using Blue Welcome tariff for 6 months which is the same as Blue Monthly tariff (with a 100% discount of monthly fee) according to the rates published on BLUEMOVE's website (bluemobe.es/es/precios-para-particulares). During these 6 months the CLIENT shall be charged the rate of 2 euros per hour + 0.25 euro per kilometer for any use of the "Economy" class vehicles (vehicle classes and their locations can be found on BLUEMOVE's website :bluemove.es/es/coches). After these 6 months, the CLIENT will be automatically me moved to the BLUE MONTHLY rate (with a monthly fee of 5 euros, as specified in BLUEMOVE's website - bluemove.es/es/precios/precios-para-particulares) unless he or she makes it known to BLUEMOVE by writing an email to management at buenosdias@bluemove.es that he or she does not wish this to be the case. If the CLIENT deems it appropriate, BLUEMOVE may provide him or her with advice on what rate is best suited to his or her needs based on the data about his or her use of the service collected over the year. The price rate may be modified by BLUEMOVE at any time, be it in order to adapt it to the annual variations of national inflation or, with lower or different regularity to adapt it to fuel price fluctuations or those of insurance policies taken out by BLUEMOVE for all of its vehicles (or those affecting any of its providers or relating to tax authorities). The CLIENT shall be notified about any change to the price rate in writing (referring the CLIENT to the price rates published on the website) by means of an email or, where appropriate by certified post, with this price rate change not having a retroactive effect upon any bookings already made or used before receiving notice of the change. In the event that the CLIENT wishes to change his or her rate, this may be done at any time over the phone but with a 31 day '(minimum) notice being given to BLUEMOVE before the beginning of the month affected by the change in rate (the rate may only be changed at the beginning of a natural month. In no case shall BLUEMOVE reimburse any amount related to a past rate (neither partial nor total) in order to adjust it and bring it in line with a new rate.
 
-Thirteenth.- Billing and payment of submitted invoices.-
+#### Thirteenth.- Billing and payment of submitted invoices.-
 
 The bills for the services provided, including any surcharges as specified and foreseen in the surcharge table attached to these general terms and conditions which the CLIENT and/or USER has agreed to, shall be issued by BLUEMOVE for every use of the service during the days immediately following it. The charge to the CLIENT's or USER's credit or debit card will be made automatically at the end of the service offered by BLUEMOVE. Nevertheless, when formalising any booking, double of the amount due according to the CLIENT's rate shall be automatically blocked on the CLIENT's or USER's credit or debit card. The same procedure shall be applied to any modifications to the booking during its validity. Under exceptional circumstances previously acknowledged and agreed to by BLUEMOVE, at its own discretion and under its own terms, invoices shall be created on a monthly basis at the end of the month. In such a case, they will be sent to the CLIENT via email and will be due to be paid for in full within ten days after their issue date, and debited from the bank account specified by the CLIENT or where applicable, the credit or debit card associated to said account; in any case contemplated by the specific sections of the agreement. There exist however, four exceptions to the previously outlined billing policy:
 
@@ -140,11 +140,11 @@ The bills for the services provided, including any surcharges as specified and f
 
 3. For those cases where direct debit is in place, except for exceptional cases determined by BLUEMOVE at its own discretion, BLUEMOVE will be able to demand pre-payment in full from the CLIENT or a deposit based on the expected monthly spending, decided at BLUEMOVE's discretion. In such an event, the bank account details given by the CLIENT or the USER to BLUEMOVE may not be modified without the previous approval by BLUEMOVE. The non payment by the CLIENT of any standing invoice shall result in the immediate suspension of the right to make new bookings and the cancellation of any bookings made up to that point, both by the CLIENT and by any USER authorized by the CLIENT, even those in the future, until the CLIENT pays any outstanding debts to BLUEMOVE. The non payment of any invoice will be met with a surcharge to compensate for the costs of administering the action taken by BLUEMOVE, which will be added to the very next bill to the CLIENT after the last one when the debt has been paid. In the event that any outstanding debt is not paid to BLUEMOVE within a month, BLUEMOVE shall produce an invoice for the costs derived from it during the next calendar month or within the next 12 months, including in it any legal costs that might be derived from it up to a maximum amount of 400 euro. The continued non payment of invoices, with at least two successive or alternating invoices not being paid, shall be sufficient grounds to terminate the contract, from the moment in which BLUEMOVE notifies the CLIENT of this in writing (through an email or ordinary mail). Any complaints about the amount billed in any invoice, must be made to BLUEMOVE by the CLIENT within a maximum of fifteen (15) days, starting from the date the invoice was issued, and in writing (via email or ordinary mail). After this due date, the invoice will be deemed to have been accepted as correct by the CLIENT. Any modification to an invoice that is accepted by BLUEMOVE shall be added to the following voice issued by BLUEMOVE to the CLIENT.
 
-Fourteenth.-Special surcharges.-
+#### Fourteenth.-Special surcharges.-
 
 BLUEMOVE will add to every invoice any special surcharges that might be applicable, when any of the events that legitimize them, as specified in the table attached to these general terms and conditions along with the corresponding amounts charged for each in Euro. This attached table is an indicative but not necessarily complete list of the incidents that might take place during the booking time of one of our vehicles, but it cannot foresee all possible events that might derive in additional costs that the CLIENT might have to cover, according to the current general terms and conditions of the agreement.
 
-Fifteenth.- Data protection for the CLIENT/USER and any third parties.-
+#### Fifteenth.- Data protection for the CLIENT/USER and any third parties.-
 
 All personal data belonging to the CLIENT or to any USER authorized by the CLIENT and any belonging to any third party related to the use and driving of any of the vehicles owned by BLUEMOVE will be stored and managed in a database managed and administered under the sole responsibility of BLUEMOVE, personified in Mónica Gheorghe with an exclusive email address only to be used for issues related to this which is monica@bluemove.es. BLUEMOVE commits itself to using this database only for the following purposes, according to the Organic Law 15/1999 from the 13th of December, related to the protection of personal data and of possible uses made of it:
 
@@ -156,7 +156,7 @@ All personal data belonging to the CLIENT or to any USER authorized by the CLIEN
 
 4. The sharing of any personal data belonging to the CLIENT with any entity contracted by BLUEMOVE in order to recover any debts owed by the former to the latter will only take place when there is a delayed payment by the CLIENT and will only be with agencies and companies specialized in debt collecting BLUEMOVE shall not, in any case disclose any of the personal information (except in the previously outlined four cases) of the CLIENT, the USERS authorized by the CLIENT or any third parties that it might hold in its database, and which will only be accessible to BLUEMOVE employees in charge of commercial relationships with the CLIENTS. If the CLIENT wishes his personal information to be handled with the purpose outlined in the previous section 2, he or she will have to make it explicitly known in the personal conditions of his or her agreement by filling out the corresponding section, always making sure his or her signature appears next to it (independently of the final signature). The CLIENT, like the USERS designated by the CLIENT will be able to exercise their right to access, correct, modify, and cancel the presence of their personal information by making their wishes known, in writing, to the person responsible for their data and the maintenance of our database as outlined at the beginning of this section and via the email address indicated. The CLIENT accepts that from a data protection perspective his or her data may be shared among the companies affiliated to BLUEMOVE or the provider of carsharing software services used by it (due to purely technical operational reasons related to the nature of the service). Likewise, his or her contractual bond with the company or any of its affiliates is legally valid with any of the companies belonging to the group. Special note to the vehicles localization system.- Every vehicle belonging to BLUEMOVE is equipped with a GPS system that allows it to be located, for obvious reasons given its activity. When using the GPS system in order to locate its vehicles, BLUEMOVE will strive to respect the privacy of its CLIENTS/USERS, in such a way that this process shall only be used then a delay occurs in the return of a vehicle and in case of theft of a vehicle. Only in the event of theft of the vehicle, will BLUEMOVE share the information provided by the GPS system with the local Security Forces and any other administrative or legal authorities or private companies that might require such information in order to be able to retrieve the stolen vehicle.
 
-Sixteenth.- Duration, suspension and other events leading to the termination of the agreement.-
+#### Sixteenth.- Duration, suspension and other events leading to the termination of the agreement.-
 
 1. Without these affecting the causes of termination or suspension of the agreement due to breaches of it by the CLIENT, as laid out in the thirteenth section of the general terms and in any specific conditions, agreement entered into by the CLIENT and BLUEMOVE is of indefinite duration. The CLIENT may terminate it at any time he or she wishes to, by communicating it in writing, through ordinary mail or email, or personally in BLUEMOVE's premises. The termination of contract made by the CLIENT in this manner does not in any case release him or her from the obligation to pay any outstanding invoices already issued by BLUEMOVE or any others in the process of being issued for services already provided by the company to the CLIENT or USERS before the time of contract termination.
 
@@ -164,11 +164,11 @@ Sixteenth.- Duration, suspension and other events leading to the termination of 
 
 3, In any event of contract termination by the CLIENT or by BLUEMOVE, BLUEMOVE shall have thirty (30) days to reimburse the deposit made by the CLIENT when entering into the agreement, after any amount owed to BLUEMOVE by the CLIENT is deducted from it.
 
-Seventeenth.-Complaints and claims.-
+#### Seventeenth.-Complaints and claims.-
 
 The CLIENT and where applicable any authorized USER, may make a formal complaint about any aspect of the carsharing services provided by BLUEMOVE in writing by sending an email to buenosdias@bluemove.es ; BLUEMOVES customer service email address.
 
-Eighteenth.- Contract, partial invalidity and applicable law and jurisdiction.-
+#### Eighteenth.- Contract, partial invalidity and applicable law and jurisdiction.-
 
 1. The contract is made up of the previous general terms and conditions, the special conditions adhered to by the CLIENT, including pricing and the attached table of surcharges that the client will have received when entering into the agreement, any pricing changes which the CLIENT is notified of during the contracts term, and, any forms through which the CLIENT designates users as authorized by him or her.
 
@@ -178,55 +178,63 @@ Eighteenth.- Contract, partial invalidity and applicable law and jurisdiction.-
 
 4. Any disagreement that might arise between the CLIENT or USER and BLUEMOVE, where an interpretation or compliance of any of the sections of this agreement is concerned, both parties agree to the arbitration by the Spanish Justice system.
 
-Attachment.- Table of "Special surcharges".
+#### Attachment.- Table of "Special surcharges".
 
-1. Booking, modifications or call emergency hotline about problems that are not an emergency situation:
++ Booking, modifications or call emergency hotline about problems that are not an emergency situation:
 
-by telephone between 09:00 and 21:00 2€
-by telephone between 21:00 and 9:00 -5€
-by Internet - 0€
+    + by telephone between 09:00 and 21:00 2€
+    + by telephone between 21:00 and 9:00 -5€
+    + by Internet - 0€
+
 The criteria about if a call is an emergency situation or not will be qualified by Bluemove Team
-2. Booking cancellation:
 
-fixed surcharge when cancellation is done more than two hours in advance - 0€
-fixed surcharge in the event that the booking is cancelled less than two hours in advance - 100% of the price of the first two hours of the original booking
-3. Reduction of the duration of the booking:
++ Booking cancellation:
 
-carried out more than 30 minutes in advance- 0€
-carried out less than 30 minutes in advance - 100% of the initial booking's price
-4 Delay returning - 0,45 € / minute
+    + fixed surcharge when cancellation is done more than two hours in advance - 0€
+    + fixed surcharge in the event that the booking is cancelled less than two hours in advance - 100% of the price of the first two hours of the original booking
 
-5. Return of vehicle:
++ Reduction of the duration of the booking:
 
-with fuel tank less than a quarter full- 50€
-in a condition deemed inadequate- 50€
-having transported uncaged animals- 50€
-headlights left on - 50€
-with doors not being left locked - 50€
-in a place different to that specified in the booking - 50€ + cost of relocating the vehicle
-without leaving the keys in the terminal in the glove compartment- 25€
-without leaving an electric vehicle properly plugged into the electricity outlet next to the vehicles base parking spot - 50€
-without being able to return the electric vehicle due to not having enough power in the battery caused by having driven more kilometers than those allowed by the vehicles autonomy - 50€ + cost of relocating the vehicle
-6. Losses and replacements:
+    + carried out more than 30 minutes in advance- 0€
+    + carried out less than 30 minutes in advance - 100% of the initial booking's price
 
-user card-25€
-fuel card - 25€
-parking card - 25€
-vehicle keys - 25€
-vehicle documentation- 10€
-7. Accident:
++ Delay returning - 0,45 € / minute
 
-not duly communicating an accident - 100€
-vehicle immobilization - 100€ per day up to 4 days
-administrative charge in case of accident for those clients that have not taken out reduced liability option10€
-excess for damages, accident or fire, solely the responsibility of the partner in the event of not having taken out the reduced liability option* - 195€ (for drivers with over a year's experience except for electric vehicles where the surcharge will be of 300€)*
-excess for damages, accident or fire, solely the responsibility of the partner in the event of not having taken out the reduced liability option* - 450€ (for drivers with under a year's experience including electric vehicles)*
-8. Other surcharges
++ Return of vehicle:
 
-administrative charge in case of fine 15€
-for administrative proceedings derived from debt collection, not including bank fees - 10€
-for administrative proceedings derived from reiterated debt collection costs, not including any bank fees - 25€
-for removing any advertising from the vehicle- 50€
-for smoking inside the vehicle- 50€
-for refueling in non-Solred gas stations - 3€
-*limiting liability has an annual cost of 89€.
+    + with fuel tank less than a quarter full- 50€
+    + in a condition deemed inadequate- 50€
+    + having transported uncaged animals- 50€
+    + headlights left on - 50€
+    + with doors not being left locked - 50€
+    + in a place different to that specified in the booking - 50€ + cost of relocating the vehicle
+    + without leaving the keys in the terminal in the glove compartment- 25€
+    + without leaving an electric vehicle properly plugged into the electricity outlet next to the vehicles base parking spot - 50€
+    + without being able to return the electric vehicle due to not having enough power in the battery caused by having driven more kilometers than those allowed by the vehicles autonomy - 50€ + cost of relocating the vehicle
+
++ Losses and replacements:
+
+    + user card - 25€
+    + fuel card - 25€
+    + parking card - 25€
+    + vehicle keys - 25€
+    + vehicle documentation- 10€
+
++ Accident:
+
+    + not communicating an accident - 100€
+    + vehicle immobilization - 100€ per day up to 4 days
+    + administrative charge in case of accident for those clients that have not taken out reduced liability option10€
+    + excess for damages, accident or fire, solely the responsibility of the partner in the event of not having taken out the reduced liability option* - 195€ (for drivers with over a year's experience except for electric vehicles where the surcharge will be of 300€)\*
+    + excess for damages, accident or fire, solely the responsibility of the partner in the event of not having taken out the reduced liability option* - 450€ (for drivers with under a year's experience including electric vehicles)*
+
++ Other surcharges
+
+    + administrative charge in case of fine 15€
+    + for administrative proceedings derived from debt collection, not including bank fees - 10€
+    + for administrative proceedings derived from reiterated debt collection costs, not including any bank fees - 25€
+    + for removing any advertising from the vehicle- 50€
+    + for smoking inside the vehicle- 50€
+    + for refueling in non-Solred gas stations - 3€
+
+\* limiting liability has an annual cost of 89€.
