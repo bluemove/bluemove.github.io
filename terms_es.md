@@ -62,7 +62,7 @@ Los vehículos cedidos por BLUEMOVE en carsharing sólo pueden ser utilizados po
 
 1. El CLIENTE/USUARIO deberán recoger el vehículo que tengan reservado en el lugar de aparcamiento del mismo que se les haya indicado en la confirmación de la reserva.
 
-2. Si el CLIENTE/USUARIO no pudieran disponer del vehículo reservado en el lugar y hora fijados en la confirmación de la reserva, ya sea por retraso en la devolución del vehículo por el anterior usuario o por cualquier otra causa, deberán comunicarlo inmediatamente a BLUEMOVE a través de la línea de asistencia telefónica. BLUEMOVE tratará, por todos los medios, de poner a su disposición de inmediato otro vehículo, a ser posible en el mismo lugar de recogida. Si el titular de la reserva tuviera que desplazarse a otro lugar de recogida, BLUEMOVE podrá optar entre poner a disposición del CLIENTE/USUARIO el medio de transporte necesario para realizar el desplazamiento o correr a su cargo con los gastos de dicho desplazamiento, en cuyo último supuesto el CLIENTE/USUARIO deberá remitir a BLUEMOVE el justificante del gasto realizado.
+2. Si el CLIENTE/USUARIO no pudieran disponer del vehículo reservado en el lugar y hora fijados en la confirmación de la reserva, ya sea por retraso en la devolución del vehículo por el anterior usuario o por cualquier otra causa, deberán comunicarlo inmediatamente a BLUEMOVE a través de la línea de asistencia telefónica. BLUEMOVE tratará, por todos los medios, de poner a su disposición de inmediato otro vehículo, a ser posible en el mismo lugar de recogida. Si el titular de la reserva tuviera que desplazarse a otro lugar de recogida, BLUEMOVE podrá optar entre poner a disposición del CLIENTE/USUARIO el medio de transporte necesario para realizar el desplazamiento o correr a su cargo con los gastos de dicho desplazamiento, en cuyo último supuesto el CLIENTE/USUARIO deberá remitir a BLUEMOVE el justificante del gasto realizado. En cualquier caso, el CLIENTE/USUARIO no podrá exigir responsabilidades a BLUEMOVE de ningún tipo por esta causa, más allá de la devolución pertinente del pago realizado por los servicios de BLUEMOVE que finalmente no se produczcan. 
 
 3. Situando la tarjeta sobre el distintivo de BLUEMOVE que hay en el parabrisas del vehículo reservado, las puertas de éste se desbloquearán automáticamente y el CLIENTE/USUARIO podrá acceder a su interior.
 
@@ -237,4 +237,4 @@ El criterio imperante sobre si una llamada se califica de emergencia o no será 
     + por fumar dentro del vehículo - 50€
     + por repostar en las gasolineras no pertinentes a la red Solred - 3€
 
-\*La reducción de responsabilidad tiene un coste anual de 89€.
+\* La reducción de responsabilidad tiene un coste anual de 89€.
