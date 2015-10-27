@@ -62,7 +62,7 @@ The vehicles assigned for carsharing by BLUEMOVE may only be used by the CLIENT 
 
 1. The CLIENT/USER will have to pick up the vehicle that he/she has booked at the location where it is parked that has previously been indicated in the booking confirmation.
 
-2. If the CLIENT/USER cannot pick up the booked vehicle at the time and place indicated in the booking confirmation, be it due to a delay in the return of the vehicle by its previous user or any other reason, he or she must notify BLUEMOVE of this immediately through the assistance hotline. BLUEMOVE will attempt by all possible means, to immediately provide another vehicle, if possible at the same pick up location. If the booking holder should be obliged to go another pick up location in order to pick up his vehicle, BLUEMOVE will have the choice between providing the CLIENT/USER with the necessary means of transport to that effect, or to reimburse the CLIENT/USER for any expenses derived from it. In the event of the second scenario, the CLIENT/USER will have to submit the relevant receipts to BLUEMOVE in order to be reimbursed.
+2. If the CLIENT/USER cannot pick up the booked vehicle at the time and place indicated in the booking confirmation, be it due to a delay in the return of the vehicle by its previous user or any other reason, he or she must notify BLUEMOVE of this immediately through the assistance hotline. BLUEMOVE will attempt by all possible means, to immediately provide another vehicle, if possible at the same pick up location. If the booking holder should be obliged to go another pick up location in order to pick up his vehicle, BLUEMOVE will have the choice between providing the CLIENT/USER with the necessary means of transport to that effect, or to reimburse the CLIENT/USER for any expenses derived from it. In the event of the second scenario, the CLIENT/USER will have to submit the relevant receipts to BLUEMOVE in order to be reimbursed. However, in any of these cases, the CLIENTE/USER will no be able to request anything to BLUEMOVE except for the complete reimbursement of the services that have been paid for and have not been provided by BLUEMOVE to the CLIENT/USER. 
 
 3. Placing the card over the BLUEMOVE logo on the windshield of the booked vehicle will automatically unlock its doors and the CLIENT/USER will be able to access its interior.
 
@@ -185,7 +185,7 @@ The CLIENT and where applicable any authorized USER, may make a formal complaint
     + by telephone between 21:00 and 9:00 -5€
     + by Internet - 0€
 
-The criteria about if a call is an emergency situation or not will be qualified by Bluemove Team
+The criteria about if a call is due to an emergency situation or not will be decided by the Bluemove Team
 
 + Booking cancellation:
     + fixed surcharge when cancellation is done more than two hours in advance - 0€
