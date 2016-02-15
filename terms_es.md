@@ -236,5 +236,7 @@ El criterio imperante sobre si una llamada se califica de emergencia o no será 
     + por retirar cualquier soporte publicitario del vehículo - 50€
     + por fumar dentro del vehículo - 50€
     + por repostar en las gasolineras no pertinentes a la red Solred - 3€
+    + por utilizar la tarjeta Solred para fines que no sean los de repostar - 100€
+    + por utilizar la tarjeta Solred para vehículos que no corresponden con la matrícula de la tarjeta - 500€
 
 \* La reducción de responsabilidad tiene un coste anual de 89€.
