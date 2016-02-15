@@ -229,5 +229,7 @@ The criteria about if a call is due to an emergency situation or not will be dec
     + for removing any advertising from the vehicle- 50€
     + for smoking inside the vehicle- 50€
     + for refueling in non-Solred gas stations - 3€
+    + for using Solred card for anything else that is not refueling - 100€
+    + for using Solred card with another vehicles that are not assigned to the card - 500€
 
 \* limiting liability has an annual cost of 89€.
