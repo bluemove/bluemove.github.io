@@ -219,8 +219,8 @@ The criteria about if a call is due to an emergency situation or not will be dec
     + not communicating an accident - 100€
     + vehicle immobilization - 100€ per day up to 4 days
     + administrative charge in case of accident for those clients that have not taken out reduced liability option10€
-    + excess for damages, accident or fire, solely the responsibility of the partner in the event of not having taken out the reduced liability option* - 195€ (for drivers with over a year's experience except for electric vehicles where the surcharge will be of 300€)\*
-    + excess for damages, accident or fire, solely the responsibility of the partner in the event of not having taken out the reduced liability option* - 450€ (for drivers with under a year's experience including electric vehicles)*
+    + excess for damages, accident or fire, solely the responsibility of the partner in the event of not having taken out the reduced liability option* - In Blue Bienvenida plan and Blue Con Cuota plan: 295€ (for drivers with under a year's experience, electric vehicles  and Premium vehicles, excess will be of 395€).
+    + excess for damages, accident or fire, solely the responsibility of the partner in the event of not having taken out the reduced liability option* - In Blue sin Cuota plan: 395€ (for drivers with under a year's experience, electric vehicles  and Premium vehicles, excess will be of 495€).
 
 + Other surcharges
     + administrative charge in case of fine 15€
@@ -232,4 +232,4 @@ The criteria about if a call is due to an emergency situation or not will be dec
     + for using Solred card for anything else that is not refueling - 100€
     + for using Solred card with another vehicles that are not assigned to the card - 500€
 
-\* limiting liability has an annual cost of 89€.
+\* Reduced liability has an annual cost of 99€ in Blue Bienvenida plan and Blue Con Cuota plan. Reduced liability has an annual cost of 149€ in Blue Sin Cuota plan. 
