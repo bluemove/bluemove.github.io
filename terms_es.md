@@ -225,7 +225,8 @@ El criterio imperante sobre si una llamada se califica de emergencia o no será 
     + por la no comunicación de un accidente - 100€
     + por la inmovilización del vehículo - 100€ por día hasta 4 días
     + cargo administrativo en caso de accidente para clientes que no hayan contratado la reducción de responsabilidad - 10€
-    + franquicia por daño, accidente o incendio asumida en su totalidad por el socio en caso de no haber contratado la reducción de responsabilidad* - En los planes Blue Bienvenida y Blue Con Cuota: 295€ (para conductores con menos de un año de antigüedad, vehículos eléctricos y vehículos Premium, será de 395€).* En el plan Blue Sin Cuota: 395€ (para conductores con menos de un año de antigüedad, vehículos eléctricos y vehículos Premium, será de 495€).* 
+    + franquicia por daño, accidente o incendio asumida en su totalidad por el socio en caso de no haber contratado la reducción de responsabilidad* - En los planes Blue Bienvenida y Blue Con Cuota: 295€ (para conductores con menos de un año de antigüedad, vehículos eléctricos y vehículos Premium, será de 395€).
+    + franquicia por daño, accidente o incendio asumida en su totalidad por el socio en caso de no haber contratado la reducción de responsabilidad* - En el plan Blue Sin Cuota: 395€ (para conductores con menos de un año de antigüedad, vehículos eléctricos y vehículos Premium, será de 495€).
 
 + Otros recargos:
     
@@ -239,3 +240,5 @@ El criterio imperante sobre si una llamada se califica de emergencia o no será 
     + por utilizar la tarjeta Solred para vehículos que no corresponden con la matrícula de la tarjeta - 500€
 
 \* La reducción de responsabilidad tiene un coste anual de 99€ en los planes Blue Bienvenida y Blue Con Cuota. La reducción de responsabilidad tiene un coste anual de 149€ en el plan Blue Sin Cuota.
+
+
