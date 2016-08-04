@@ -1,1 +1,0 @@
-# Bluemove Static Content
