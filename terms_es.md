@@ -110,7 +110,7 @@ Con la periodicidad razonable y, en su caso, la fijada por el fabricante del veh
 
 #### Décima.- Franquicias y reducción de responsabilidad del CLIENTE/USUARIO.-
 
-1. El seguro incorpora una franquicia que podrá variar dependiendo del plan de precios que tenga adjudicado cada CLIENTE/USUARIO. Para el Plan Blue Bienvenida y Blue con cuota la franquicia será de doscientos noventa y cinco (295) euros, salvo para los vehículos eléctricos y los vehículos del Servicio Premium en los que ésta será de trescientos noventa y cinco (395) euros. También será de trescientos noventa y cinco (395) euros para todos los vehículos incluidos los de gasolina si el usuario tiene menos de un año de antigüedad de carnet para todos los supuestos de daños propios derivados de accidente o incendio y disfruta del Plan Blue Bienvenida o Blue con cuota. Para el Plan Blue sin cuota la franquicia será de trescientos noventa y cinco (395) euros, salvo para los vehículos eléctricos y los vehículos del Servicio Premium en los que ésta será de cuatrocientos noventa y cinco (495) euros. También será de cuatrocientos noventa y cinco (395) euros para todos los vehículos incluidos los de gasolina si el usuario tiene menos de un año de antigüedad de carnet para todos los supuestos de daños propios derivados de accidente o incendio y disfruta del Plan Blue sin cuota. Cuantos daños requieran una reparación de importe inferior a esta franquicia, deberán ser asumidos por el CLIENTE (sin perjuicio de su derecho a repetir, en su caso, contra el USUARIO responsable del accidente) y le serán facturados por BLUEMOVE, pudiendo el CLIENTE solicitar el envío de la factura de reparación que los justifique.
+1. El seguro incorpora una franquicia que podrá variar dependiendo del plan de precios que tenga adjudicado cada CLIENTE/USUARIO. Para el Plan Blue Bienvenida y Blue con cuota la franquicia será de doscientos noventa y cinco (295) euros, salvo para los vehículos eléctricos y los vehículos del Servicio Premium en los que ésta será de trescientos noventa y cinco (395) euros. También será de trescientos noventa y cinco (395) euros para todos los vehículos incluidos los de gasolina si el usuario tiene menos de un año de antigüedad de carnet para todos los supuestos de daños propios derivados de accidente o incendio y disfruta del Plan Blue Bienvenida o Blue con cuota. Para el Plan Blue sin cuota la franquicia será de trescientos noventa y cinco (395) euros, salvo para los vehículos eléctricos y los vehículos del Servicio Premium en los que ésta será de cuatrocientos noventa y cinco (495) euros. También será de cuatrocientos noventa y cinco (495) euros para todos los vehículos incluidos los de gasolina si el usuario tiene menos de un año de antigüedad de carnet para todos los supuestos de daños propios derivados de accidente o incendio y disfruta del Plan Blue sin cuota. Cuantos daños requieran una reparación de importe inferior a esta franquicia, deberán ser asumidos por el CLIENTE (sin perjuicio de su derecho a repetir, en su caso, contra el USUARIO responsable del accidente) y le serán facturados por BLUEMOVE, pudiendo el CLIENTE solicitar el envío de la factura de reparación que los justifique.
 
 2. No obstante lo previsto en el apartado anterior, el CLIENTE puede contratar, en beneficio propio y, en su caso, de los USUARIOS que tenga autorizados, la eliminación de sus responsabilidades por razón de la franquicia acabada de indicar, mediante el pago a BLUEMOVE de la suma de noventa y nueve (99) euros anuales (y en su caso, noventa y nueve (99) euros anuales más por cada USUARIO que el CLIENTE tenga autorizado) en caso de disfrutar del plan Blue Bienvenida o Blue con Cuota. En caso de que el CLIENTE tenga asignao el plan Blue sin cuota, podrá contratar, en beneficio propio y, en su caso, de los USUARIOS que tenga autorizados, la eliminación de sus responsabilidades por razón de la franquicia correspondiente, mediante el pago a BLUEMOVE de la suma de ciento cuarenta y nueve (149) euros anuales (y en su caso, ciento cuarenta y nueve (149) euros anuales más por cada USUARIO que el CLIENTE tenga autorizado). En tales supuestos, el pago de todas las reparaciones cuyo coste quede por debajo de la franquicia del seguro, será asumido por BLUEMOVE.
 
@@ -213,6 +213,7 @@ El criterio imperante sobre si una llamada se califica de emergencia o no será 
     + sin dejar las llaves en el terminal de la guantera - 25€
     + sin dejar un vehículo eléctrico debidamente enchufado en su toma de corriente situada al lado de la plaza de aparcamiento base del vehículo - 50€
     + sin poder devolver el vehículo eléctrico por falta de carga de batería, por haber realizado más kilómetros de los que permite la autonomía del vehículo - 50€ + gastos de traslado del vehículo
+    
 
 + Pérdidas o sustituciones:
     
@@ -221,6 +222,7 @@ El criterio imperante sobre si una llamada se califica de emergencia o no será 
     + tarjeta de aparcamiento - 25€
     + llaves del vehículo - 25€ + el coste de la llave
     + documentación del vehículo - 10€
+    
 
 + Accidente:
 
@@ -229,6 +231,7 @@ El criterio imperante sobre si una llamada se califica de emergencia o no será 
     + cargo administrativo en caso de accidente para clientes que no hayan contratado la reducción de responsabilidad - 10€
     + franquicia por daño, accidente o incendio asumida en su totalidad por el socio en caso de no haber contratado la reducción de responsabilidad* - En los planes Blue Bienvenida y Blue Con Cuota: 295€ (para conductores con menos de un año de antigüedad, vehículos eléctricos y vehículos Premium, será de 395€).
     + franquicia por daño, accidente o incendio asumida en su totalidad por el socio en caso de no haber contratado la reducción de responsabilidad* - En el plan Blue Sin Cuota: 395€ (para conductores con menos de un año de antigüedad, vehículos eléctricos y vehículos Premium, será de 495€).
+    
 
 + Otros recargos:
     
